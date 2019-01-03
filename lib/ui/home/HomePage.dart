@@ -25,7 +25,7 @@ class _HomePageBodyState extends State<HomePageBody> {
   Widget build(BuildContext context) => new Scaffold(
     body: new Column(
       children: <Widget>[
-         new GradientAppBar("Lehonn Happy"),
+         new GradientAppBar("Flutter IoT"),
         new DeviceList(),
       ],
     ),
